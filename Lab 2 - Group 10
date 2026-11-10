@@ -71,7 +71,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 3,
+      "execution_count": null,
       "metadata": {
         "execution": {
           "iopub.execute_input": "2026-11-09T19:55:56.061852Z",
@@ -390,7 +390,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 4,
+      "execution_count": null,
       "metadata": {
         "execution": {
           "iopub.execute_input": "2026-11-09T19:55:59.370213Z",
@@ -640,7 +640,7 @@
     },
     {
       "cell_type": "code",
-      "execution_count": 5,
+      "execution_count": null,
       "metadata": {
         "execution": {
           "iopub.execute_input": "2026-11-09T19:55:59.689625Z",
@@ -723,7 +723,7 @@
         "\n",
         "    print(f\"{name}:\\n  Train - RMSE: ${tr_rmse:,.2f}, R2: {tr_r2:.4f}\\n  Test  - RMSE: ${te_rmse:,.2f}, R2: {te_r2:.4f}\\n\")"
       ],
-      "execution_count": 10,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
@@ -794,7 +794,7 @@
         "plt.tight_layout()\n",
         "plt.show()"
       ],
-      "execution_count": 7,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "display_data",
@@ -858,7 +858,7 @@
         "id": "_8rDGFgPVBfJ",
         "outputId": "324d2220-e9da-446c-ceb6-c08297ae5fb4"
       },
-      "execution_count": 9,
+      "execution_count": null,
       "outputs": [
         {
           "output_type": "stream",
